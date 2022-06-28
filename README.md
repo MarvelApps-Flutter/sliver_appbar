@@ -1,16 +1,41 @@
-# flutter_sliver_appbar_module
+# Flutter Sliver Appbar Module
 
-A new Flutter application.
+A new flutter app for demonstrating Sliver Appbar with Pinned , Tab bar and Persistent Header.
 
-## Getting Started
+# Android Screenshots
 
-This project is a starting point for a Flutter application.
+<table>
+  <tr>
+    <td><img src="https://github.com/MarvelApps-Flutter/flutter_firebase_realtime_database/blob/dev/screenshots/android/android1.png" height="480px"></td>
+    <td><img src="https://github.com/MarvelApps-Flutter/flutter_firebase_realtime_database/blob/dev/screenshots/android/android2.png" height="480px"></td>
+    <td><img src="https://github.com/MarvelApps-Flutter/flutter_firebase_realtime_database/blob/dev/screenshots/android/android3.png" height="480px"></td>
+  </tr>
+ </table>
 
-A few resources to get you started if this is your first Flutter project:
+<table>
+  <tr>
+    <td><img src="https://github.com/MarvelApps-Flutter/flutter_firebase_realtime_database/blob/dev/screenshots/android/android4.png" height="480px"></td>
+    <td><img src="https://github.com/MarvelApps-Flutter/flutter_firebase_realtime_database/blob/dev/screenshots/android/android5.png" height="480px"></td>
+    <td><img src="https://github.com/MarvelApps-Flutter/flutter_firebase_realtime_database/blob/dev/screenshots/android/android5.png" height="480px"></td>
+  </tr>
+ </table>
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+</br>
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# IOS Screenshots
+
+<table>
+  <tr>
+    <td><img src="https://github.com/MarvelApps-Flutter/flutter_firebase_realtime_database/blob/dev/screenshots/ios/ios1.png" height="480px"></td>
+    <td><img src="https://github.com/MarvelApps-Flutter/flutter_firebase_realtime_database/blob/dev/screenshots/ios/ios2.png" height="480px"></td>
+    <td><img src="https://github.com/MarvelApps-Flutter/flutter_firebase_realtime_database/blob/dev/screenshots/ios/ios3.png" height="480px"></td>
+  </tr>
+ </table>
+
+<table>
+  <tr>
+    <td><img src="https://github.com/MarvelApps-Flutter/flutter_firebase_realtime_database/blob/dev/screenshots/ios/ios4.png" height="480px"></td>
+    <td><img src="https://github.com/MarvelApps-Flutter/flutter_firebase_realtime_database/blob/dev/screenshots/ios/ios5.png" height="480px"></td>
+    <td><img src="https://github.com/MarvelApps-Flutter/flutter_firebase_realtime_database/blob/dev/screenshots/ios/ios5.png" height="480px"></td>
+  </tr>
+ </table>
