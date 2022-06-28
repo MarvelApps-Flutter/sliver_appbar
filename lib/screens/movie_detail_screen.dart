@@ -3,7 +3,6 @@ import 'package:flutter/material.dart';
 import 'package:flutter_sliver_appbar_module/models/casts_model.dart';
 import 'package:flutter_sliver_appbar_module/models/screenshots_model.dart';
 import 'package:flutter_sliver_appbar_module/utils/star_display.dart';
-
 import 'custom_appbar_delegate.dart';
 
 class MovieDetailScreen extends StatefulWidget {

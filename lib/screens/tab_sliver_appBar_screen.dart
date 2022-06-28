@@ -21,7 +21,7 @@ class _TabSliverAppBarScreenState extends State<TabSliverAppBarScreen> {
               const SliverAppBar(
                 centerTitle: true,
                 title: Text("Sliver Tab Appbar"),
-                automaticallyImplyLeading: false,
+                //automaticallyImplyLeading: false,
                 backgroundColor: Color(0xFFff735c),
                 bottom: TabBar(
                   indicatorColor: Colors.white,

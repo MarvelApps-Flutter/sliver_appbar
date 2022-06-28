@@ -37,7 +37,7 @@ class CustomSliverAppBarDelegate extends SliverPersistentHeaderDelegate {
     opacity: appear(shrinkOffset),
     child: AppBar(
       backgroundColor: const Color(0xFFff735c),
-      automaticallyImplyLeading: false,
+      //automaticallyImplyLeading: false,
       // title: Text(""),
       // centerTitle: true,
     ),
