@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:flutter_sliver_appbar_module/screens/choose_screen.dart';
+import 'package:flutter_sliver_appbar_module/screens/splash_screen.dart';
 
 Future main() async {
   WidgetsFlutterBinding.ensureInitialized();
@@ -24,7 +25,7 @@ class MyApp extends StatelessWidget {
     theme: ThemeData(
       primaryColor: Colors.black,
     ),
-    home: const ChooseScreen(),
+    home: const SplashScreen(),
   );
 }
 
