@@ -2,6 +2,9 @@
 
 A new flutter app for demonstrating Sliver Appbar with Pinned , Tab bar and Persistent Header.
 
+# Demo
+<img src="https://github.com/MarvelApps-Flutter/sliver_appbar/blob/dev/screenshots/gif/demo.gif" height="480px"></td>
+
 # Android Screenshots
 
 <table>
